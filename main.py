@@ -71,6 +71,8 @@ def main():
     while True:
         #Checks for the keyword 
         if 'comeon' in text_last_tweet.lower():
+            print('Keyword found!')
+            print('Extracting the thread...')
 
             since_id = Thread_unroll(api,since_id)
             
@@ -90,23 +92,25 @@ def main():
                     #Condition to check if message already sent once
                     if int(last_tweet_id) != int(last_id_to_check):
                         send_messages(screen_name_of_user, value)
+                        print(f'DM Successfully sent to {screen_name_of_user}!')
+                        print()
 
                         #If successfuly DMed, Saves the current tweet id in to the `last_tweet_id` text file
                         with open('last_tweet_id.txt', 'w') as save:
                             save.write(str(last_tweet_id))
                             
-                    # #TODO Testing pourpouses
-                    # else:
-                    #     print('Multiple DM\'s restricted')
+                    #TODO Testing pourpouses
+                    else:
+                        print('Multiple DM\'s restricted')
 
 
 
             except FileNotFoundError:
                 pass
 
-        # #TODO Testing pourpouses
-        # else:
-        #     print('\'Comeon\' not found')
+        #TODO Testing pourpouses
+        else:
+            print('\'Comeon\' not found')
 
 
         logger.info("Waiting...")
