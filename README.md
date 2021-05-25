@@ -6,11 +6,11 @@ happen. Then all you have to do is that, you have to mention the name of our bot
 2.muhammed basith v p [https://github.com/MuhammedBasith]
 3.sidharth jayachandran [https://github.com/SidJ1010]
 # Team Id
-BFH-recucyzNBdp3dO85Q-2021
+BFH/recucyzNBdp3dO85Q/2021
 ## Link to product walkthrough
 [https://www.loom.com/share/512f49c4eb0d45f0a31609f1532af0cb]
 ## How it Works ?
-The working procedure is simple, All you have to do is, Mention the bot with the keyword
+The working procedure is simple. All you have to do is, Mention the bot with the keyword
 `comeon` on a particular thread that you'd wish to read later. Once mentioned the bot
 automatically extracts the thread and Dm's it to you!
 ## Library Name - version
