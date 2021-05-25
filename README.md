@@ -11,8 +11,8 @@ BFH/recucyzNBdp3dO85Q/2021
 [https://www.loom.com/share/512f49c4eb0d45f0a31609f1532af0cb]
 ## How it Works ?
 The working procedure is simple. All you have to do is, Mention the bot with the keyword
-`comeon` on a particular thread that you'd wish to read later. Once mentioned the bot
-automatically extracts the thread and Dm's it to you!
+`comeon` on a particular thread that you would wish to read later. Once mentioned the bot
+automatically extracts the thread and Direct message to you!
 ## Library Name - version
 tweepy==3.10.0
 ## How to run ?
