@@ -1,6 +1,6 @@
 # Mr. Chandran Ji
 
-![Mr. Chandran Ji](https://example.com/mrchandranji_image.png)
+![Mr. Chandran Ji]([https://example.com/mrchandranji_image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fmini-robot-finger-point-gm1050049486-280805126&psig=AOvVaw07QdF6cts3ev5zkMJhiagr&ust=1685539029771000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICu8quQnf8CFQAAAAAdAAAAABAU))
 
 Welcome to the Mr. Chandran Ji Thread Generator Bot! This bot is designed to help you generate and receive threads on Twitter in a seamless manner. With just a few simple steps, you can have your desired thread sent directly to your DMs. Let's dive into how it works and how you can use it.
 
