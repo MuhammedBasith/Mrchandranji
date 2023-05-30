@@ -68,7 +68,7 @@ We welcome contributions from the community to improve the Mr. Chandran Ji Threa
 
 The Mr. Chandran Ji Thread Generator Bot is licensed
 
- under the [MIT License](https://opensource.org/licenses/MIT). You can find the full license text in the [LICENSE](https://github.com/MuhammedBasith/Mrchandranji/blob/main/LICENSE) file.
+ under the [MIT License](https://opensource.org/licenses/MIT). You can find the full license text in the [LICENSE](https://github.com/MuhammedBasith/Mrchandranji/blob/main/LICENSE.txt) file.
 
 ---
 
