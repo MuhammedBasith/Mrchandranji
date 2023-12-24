@@ -73,7 +73,3 @@ The Mr. Chandran Ji Thread Generator Bot is licensed
 ---
 
 Thank you for choosing Mr. Chandran Ji Thread Generator Bot! If you have any further questions or need assistance, feel free to reach out to us. Happy threading!
-
-
-curl -H 'Content-Type: application/json' -d '{"contents":[{"parts":[{"text":"Write a story about a magic backpack"}]}]}' -X POST https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyANmgwMZun3-dIqoXWTMo_p8nO5n5WQBbc
-
